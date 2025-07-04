@@ -1,9 +1,9 @@
 {
-  "name": "esthevan-cardoso-tombini---portfólio",
+  "name": "esthevan-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SEU-USUARIO.github.io/esthevan-cardoso-tombini---portfólio",
+  "homepage": "https://sl4apdev.github.io/esthevan-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
