@@ -1,6 +1,5 @@
 {
   "name": "Esthevan Cardoso Tombini - Portfólio",
   "description": "Um portfólio pessoal.",
-  "requestFramePermissions": [],
-  "prompt": ""
+  "requestFramePermissions": []
 }
