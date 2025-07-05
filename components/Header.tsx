@@ -24,10 +24,10 @@ const Header: React.FC<HeaderProps> = ({ isStarted, onStartClick, language }) =>
       }`}
     >
       <h1 className="text-5xl font-bold md:text-7xl font-dancing-script text-3d">
-        Esthevan Cardoso Tombini
+        Esthevan C. Tombini
       </h1>
       <h2 className="mt-2 text-xl md:text-2xl text-brand-green-100 subtitle-glow">
-        Hoop
+        Sl4ap Dev
       </h2>
       {!isStarted && (
         <div className="mt-8">
